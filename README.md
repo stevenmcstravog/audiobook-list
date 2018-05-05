@@ -1,4 +1,4 @@
-# audiobooklist
+# Audiobook List
 A simple single page application that allows you to pull audiobook data from a mock API, add/edit/delete an audiobook and simple form validation.
 
 ### Tech
